@@ -6,4 +6,3 @@
 
 + I’m interested in gamedev :video_game:, development... Um...
   Actually, I'm always interested in knowing how everything works under the hood! :nerd_face: :gear:
-+ Currently, I'm interested in reverse eng.
